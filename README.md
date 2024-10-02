@@ -215,3 +215,5 @@ This document will guide you through my steps for preparing for my Google interv
 - [Prepare for your Google Interview: General Cognitive Ability](https://youtu.be/eIMR82oO2Dc?feature=shared)
 - [Prepare for your Google Interview: Leadership](https://youtu.be/2Cr3-et4xkI?feature=shared)
 
+
+<img src="_resources/ctci.jpg">
